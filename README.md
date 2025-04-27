@@ -1,10 +1,16 @@
-## About Me
+<h1 class="heading-element" dir="auto">💫 About Me:</h1>
 
 🔖 I'm an aspiring **Data Analyst**  
 ✌️ I love tackling challenges, especially when it comes to cleaning and transforming messy datasets  
 🤝 **Ask me about data!**
 
-## 🤝 Connect with Me
+<a id="user-content-socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+    <path fill-rule="evenodd" d="M11 5h3.5a.5.5 0 0 1 .5.5V9h-1V6H12V5zM10 4h4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zM3 7a3 3 0 1 1 6 0v2h-1V7a2 2 0 1 0-4 0v2H3V7z"/>
+  </svg>
+</a>
+
+## 🌐 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Mangalanageshwari" target="blank">
@@ -12,6 +18,12 @@
   </a>
   <a href="https://www.instagram.com/your-instagram/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://github.com/mangalaworks" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="40" width="40" />
   </a>
 </p>
 
