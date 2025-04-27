@@ -36,8 +36,21 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/> </a>
 </p>
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mangalaworks&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="Mangalaworks's GitHub Stats" />
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mangalaworks&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
 </p>
